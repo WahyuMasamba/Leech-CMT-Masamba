@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) gautamajay52
+# (c) Pea Masamba
 import asyncio
 import logging
 import os
